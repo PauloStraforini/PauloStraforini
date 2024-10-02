@@ -1,6 +1,6 @@
 ### Oi, Me chamo Paulo Straforini
 
-- Trabalhando com Fron-End
+- Trabalhando com Front-End
 - Estudando TypeScript 
 
 <div style="display: inline_block"><br>
