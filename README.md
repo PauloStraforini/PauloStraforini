@@ -51,12 +51,6 @@
 
 <td>
     <a href="https://github.com/PauloStraforini">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloStraforini&layout=compact&theme=tokyonight" alt="Principais linguagens de PauloStraforini">
-    </a>
-</td>
-
-<td>
-    <a href="https://github.com/PauloStraforini">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloStraforini&theme=tokyonight" alt="PauloStraforini's GitHub Streak">
     </a>
 </td>
@@ -65,5 +59,9 @@
  </tr>
 </table>
 </div>
-  
+  <!--<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
+</h1>-->
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 </div>
