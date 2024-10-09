@@ -18,6 +18,23 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+        <div class="section highlights">
+            <h2>:bar_chart: Performance Highlights</h2>
+            <table>
+                <tr>
+                    <td>
+                        <a href="https://github.com/PauloStraforini">
+                            <img src="https://github-readme-stats.vercel.app/api?username=PauloStraforini&show_icons=true&theme=vision-friendly-dark" alt="PauloStraforini's GitHub Stats">
+                        </a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/PauloStraforini">
+                            <img src="https://github-readme-streak-stats.herokuapp.com/?user=WhitePoodleMoth&theme=vision-friendly-dark" alt="PauloStraforini's GitHub Streak">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+        </div>
   
 </div>
 
