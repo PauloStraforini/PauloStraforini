@@ -1,15 +1,34 @@
-### HI, My name is Paulo Straforini
 
-- Working with Front-End
-- Technologies used React .Next
+<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Paulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-NEXT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">  
-  
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,next,ts" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,notion,tailwind,js" /><br>
+    <img src="https://skillicons.dev/icons?i=py,cs,java,pwsh" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,prisma,vscode,github" /><br>
 </div>
+
+<br/>
+
+
+<div align="center">
+  <h2>💻 Tech Stack:</h2>
+     <br/>
+  <div align="center">
+   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/prisma-333146.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="prisma" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+  
+          
+  </div>
+  <div align="center"> 
+  </div>
   
   ##
  
@@ -40,3 +59,12 @@
   
 </div>
 
+<table>
+
+<!--<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
+</h1>-->
+
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
+
+</table>
