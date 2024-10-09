@@ -42,18 +42,29 @@
             <table>
                 <tr>
                     <td>
-                        <a href="https://github.com/PauloStraforini">
-                            <img src="https://github-readme-stats.vercel.app/api?username=PauloStraforini&show_icons=true&theme=vision-friendly-dark" alt="PauloStraforini's GitHub Stats">
-                        </a>
-                    </td>
-                    <td>
-                        <a href="https://github.com/PauloStraforini">
-                            <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloStraforini&theme=vision-friendly-dark" alt="PauloStraforini's GitHub Streak">
-                        </a>
-                    </td>
-                </tr>
-            </table>
-        </div>
+    
+<td>
+    <a href="https://github.com/PauloStraforini">
+        <img src="https://github-readme-stats.vercel.app/api?username=PauloStraforini&show_icons=true&theme=tokyonight" alt="PauloStraforini's GitHub Stats">
+    </a>
+</td>
+
+<td>
+    <a href="https://github.com/PauloStraforini">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloStraforini&layout=compact&theme=tokyonight" alt="Principais linguagens de PauloStraforini">
+    </a>
+</td>
+
+<td>
+    <a href="https://github.com/PauloStraforini">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloStraforini&theme=tokyonight" alt="PauloStraforini's GitHub Streak">
+    </a>
+</td>
+
+
+ </tr>
+</table>
+</div>
   
 </div>
 
