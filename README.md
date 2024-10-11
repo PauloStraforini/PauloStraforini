@@ -3,7 +3,7 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,next,ts,figma,notion,tailwind,js" /><br>
+    <img src="https://skillicons.dev/icons?i=next,ts,figma,notion,tailwind,js" /><br>
     <img src="https://skillicons.dev/icons?i=py,cs,java,pwsh,mysql,prisma,vscode,github" /><br>
 </div>
 
