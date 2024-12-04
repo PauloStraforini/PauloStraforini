@@ -19,7 +19,6 @@
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
@@ -29,30 +28,9 @@
   <div align="center"> 
   </div>
   
-  ##
- 
-<div> 
-  <a href="https://instagram.com/paulos_str" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "paulostraforini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/paulo-octavio-de-oliveira-straforini-b257a31a8/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PauloStraforini&show_icons=true&count_private=true&hide_border=true&title_color=5C9DFF&icon_color=35C1FE&text_color=EEF1F7&bg_color=0d1117" alt="GitHub Paulo Straforini" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloStraforini&layout=compact&hide_border=true&title_color=5C9DFF&text_color=EEF1F7&bg_color=0d1117" alt="Linguagens Mais Utilizadas pelo Henry Oliveira Moreira" />
+</div>
 
-<div class="section highlights">
-            <h2>📊 Performance Highlights</h2>
-            <table>
-                <tr>
-                    <td>
-    
-<td>
-    <a href="https://github.com/PauloStraforini">
-        <img src="https://github-readme-stats.vercel.app/api?username=PauloStraforini&show_icons=true&theme=tokyonight" alt="PauloStraforini's GitHub Stats">
-    </a>
-</td>
 
-<td>
-    <a href="https://github.com/PauloStraforini">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloStraforini&theme=tokyonight" alt="PauloStraforini's GitHub Streak">
-    </a>
-</td>
- </tr>
