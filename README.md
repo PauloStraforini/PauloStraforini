@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,ts,figma,tailwind,js,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=py,cs,mysql,prisma,mongo,vscode,github" /><br>
+    <img src="https://skillicons.dev/icons?i=py,cs,prisma,mongo,vscode,github" /><br>
 </div>
 
 
@@ -18,7 +18,6 @@
   <div align="center">
    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> 
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 
