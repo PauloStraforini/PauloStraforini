@@ -4,8 +4,8 @@
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=next,ts,figma,tailwind,js,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=py,cs,mongo,kotlin,github" /><br>
+    <img src="https://skillicons.dev/icons?i=next,ts,kotlin,js" /><br>
+    <img src="https://skillicons.dev/icons?i=py,cs,mongo,figma,nodejs" /><br>
 </div>
 
 
