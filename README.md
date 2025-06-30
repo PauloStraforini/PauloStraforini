@@ -5,7 +5,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,ts,js,react" /><br>
-    <img src="https://skillicons.dev/icons?i=py,mongo,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=py,n8n,nodejs" /><br>
 </div>
 
 
