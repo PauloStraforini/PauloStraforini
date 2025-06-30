@@ -5,7 +5,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=next,ts,js,react" /><br>
-    <img src="https://skillicons.dev/icons?i=py,n8n,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=py,mongo,nodejs" /><br>
+    <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" alt="n8n" width="100" />
+
 </div>
 
 
